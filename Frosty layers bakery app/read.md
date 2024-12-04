@@ -1,5 +1,5 @@
 # Frosty layers (bakery app UI) - Project Overview
-**Project Mentor:** [Vanshika Sharma](https://github.com/vanshikashh) (GDG UI/UX Circle Manager)
+**Project Mentor:** [Vanshika Sharma](https://github.com/vanshikashh) (GDG UI/UX Circle Manager) 
 
 
 ## Description
