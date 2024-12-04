@@ -17,7 +17,7 @@ Kickstarting Your UI/UX Journey:
 - Dive deep into the problem statement to uncover user needs and align your designs to solve them.
 - Map out your UX process, and if possible, document it in a case study to showcase your thought process.
 - Experiment with tools like Figma, Adobe XD, or others that match your creative style.
-- Fuel your creativity with inspiration from platforms like Behance and Dribbble.
+- Fuel your creativity with inspiration from platforms like [Behance](https://www.behance.net/) and [Dribbble](https://dribbble.com/).
 
 ## CONTRIBUTING TO THIS PROJECT
 - Take a look at the Existing Issues of your project and find one that interests you!
