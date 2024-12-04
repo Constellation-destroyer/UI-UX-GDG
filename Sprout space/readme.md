@@ -6,18 +6,18 @@
 
 ## Current Progress
 The app’s UI currently includes the following screens:
-- Intro Screen: Welcomes users to the app.
-- Home Page: Displays a list of plants owned by the user and an “Explore” section for the marketplace.
-- Side Navbar: Provides navigation options like My Plants, Explore, Shopping Cart, and Settings.
-- Plant Stats Page (Plant 2): Offers detailed statistics for a specific plant, including health metrics.
-- Marketplace Checkout Page: Displays the shopping cart for purchasing plants from the marketplace.
+- **Intro Screen:** Welcomes users to the app.
+- **Home Page:** Displays a list of plants owned by the user and an “Explore” section for the marketplace.
+-** Side Navbar:** Provides navigation options like My Plants, Explore, Shopping Cart, and Settings.
+-** Plant Stats Page (Plant 2):** Offers detailed statistics for a specific plant, including health metrics.
+-** Marketplace Checkout Page:** Displays the shopping cart for purchasing plants from the marketplace.
 
 ## Examples for Contributors
 To spark ideas and open up possibilities, here are a few examples of what contributors can create:
-- Full Plant Library Page: A comprehensive view of all the user’s plants.
-- Marketplace Plant Page: A complete list of all plants available for purchase.
-- Individual Marketplace Plant Pages: Detailed pages for each plant, including descriptions, care requirements, and pricing.
-- Signup/Login Page: To enable user authentication and profile management.
+- **Full Plant Library Page:** A comprehensive view of all the user’s plants.
+- **Marketplace Plant Page:** A complete list of all plants available for purchase.
+- **Individual Marketplace Plant Pages:** Detailed pages for each plant, including descriptions, care requirements, and pricing.
+- **Signup/Login Page:** To enable user authentication and profile management.
 These are only examples to help contributors brainstorm. Feel free to expand on these or introduce entirely new features that enhance the user experience!
 
 ## Requirements for Contributors
