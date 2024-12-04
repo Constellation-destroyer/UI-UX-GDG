@@ -5,7 +5,7 @@
 **Geeky Genie** is a _digital marketplace_ designed to provide college students with affordable gadgets perfectly tailored to their unique requirements. Every gadget is thoughtfully curated to align with the needs of individual students, ensuring a personalized shopping experience.
 
 ## Project link
-- [Geeky Genie figma file](https://www.figma.com/design/YZV9coR6emc4A9hwEVBnfq/Pyxis_GeekyGenie?node-id=437-1021&node-type=frame&t=gmYxXphujLTF2ZeE-0)
+- [Geeky Genie figma file](https://docs.google.com/spreadsheets/d/1J7b2RPzdOTuzdlDrv48fAiXWcPTFeGwS_7IxIVc5f38/edit?usp=sharing)
 - [Google sheet for contributors](https://docs.google.com/spreadsheets/d/1J7b2RPzdOTuzdlDrv48fAiXWcPTFeGwS_7IxIVc5f38/edit?gid=0#gid=0)
 
 ## Current Progress
