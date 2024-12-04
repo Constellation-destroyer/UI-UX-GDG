@@ -1,4 +1,4 @@
-# Sprout Space (Plant Sensor App UI) - Project Overview
+# Research-Driven Design Patterns Library (UX Case study) - Project Overview
 **Project Mentor:** [Anjali](https://github.com/GLITCH-in-MATRIX9)
 
 ## Description
