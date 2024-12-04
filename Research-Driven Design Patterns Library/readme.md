@@ -1,5 +1,6 @@
 # Research-Driven Design Patterns Library (UX Case study) - Project Overview
-**Project Mentor:** [Anjali](https://github.com/GLITCH-in-MATRIX9)
+- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134)
+- **Project Mentor:** [Anjali](https://github.com/GLITCH-in-MATRIX9)
 
 ## Description
 
