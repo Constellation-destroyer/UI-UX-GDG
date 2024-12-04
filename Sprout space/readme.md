@@ -5,8 +5,8 @@
 **Sprout Space** is a plant sensor app designed to help users *monitor the health and requirements* of their plants. It provides an *intuitive* and *user-friendly* interface for plant enthusiasts to track various parameters like humidity, water levels, and temperature. Additionally, the app features a **marketplace** where users can explore and purchase plants.
 
 ## Project link
-[Sprout space figma file](https://www.figma.com/design/m3QKQ85omXB58GDu8Ou5e9/Sprout-space-App?node-id=4028-44&t=Wrs5PmoAQqjMgvGs-1)
-[Google sheet for contributors](https://docs.google.com/spreadsheets/d/1VveRG1HIYjcPRaIyW5bpQCfzYS1ouoi2LRUUtYpxGL0/edit?usp=sharing)
+- [Sprout space figma file](https://www.figma.com/design/m3QKQ85omXB58GDu8Ou5e9/Sprout-space-App?node-id=4028-44&t=Wrs5PmoAQqjMgvGs-1)
+- [Google sheet for contributors](https://docs.google.com/spreadsheets/d/1VveRG1HIYjcPRaIyW5bpQCfzYS1ouoi2LRUUtYpxGL0/edit?usp=sharing)
 
 ## Current Progress
 The app’s UI currently includes the following screens:
