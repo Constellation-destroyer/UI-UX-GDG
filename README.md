@@ -19,7 +19,7 @@ Kickstarting Your UI/UX Journey:
 - Experiment with tools like Figma, Adobe XD, or others that match your creative style.
 - Fuel your creativity with inspiration from platforms like [Behance](https://www.behance.net/) and [Dribbble](https://dribbble.com/).
 
-## CONTRIBUTING TO THIS PROJECT
+## Contributing to the project
 - Take a look at the Existing Issues of your project and find one that interests you!
 - Fill the Google sheet provided in each project and wait for the maintainer's or reviewers' response
 - If you are selected for the Issues you applied for, then it will assigned to you after which you can start working on it.
