@@ -8,9 +8,9 @@
 The app’s UI currently includes the following screens:
 - **Intro Screen:** Welcomes users to the app.
 - **Home Page:** Displays a list of plants owned by the user and an “Explore” section for the marketplace.
--** Side Navbar:** Provides navigation options like My Plants, Explore, Shopping Cart, and Settings.
--** Plant Stats Page (Plant 2):** Offers detailed statistics for a specific plant, including health metrics.
--** Marketplace Checkout Page:** Displays the shopping cart for purchasing plants from the marketplace.
+- ** Side Navbar:** Provides navigation options like My Plants, Explore, Shopping Cart, and Settings.
+- ** Plant Stats Page (Plant 2):** Offers detailed statistics for a specific plant, including health metrics.
+- ** Marketplace Checkout Page:** Displays the shopping cart for purchasing plants from the marketplace.
 
 ## Examples for Contributors
 To spark ideas and open up possibilities, here are a few examples of what contributors can create:
