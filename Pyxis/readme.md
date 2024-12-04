@@ -1,5 +1,5 @@
 # Geeky Genie - Marketplace for gadgets (Plant Sensor App UI) - Project Overview
-**Project Mentor:** [Khushie Leishangthem](https://github.com/Khushie134) (GDG UI/UX Circle Manager)
+**Project Mentor:** [Abhaya](https://github.com/abhayaaatriv) (GDG UI/UX Circle Manager)
 
 ## Description
 **Geeky Genie** is a _digital marketplace_ designed to provide college students with affordable gadgets perfectly tailored to their unique requirements. Every gadget is thoughtfully curated to align with the needs of individual students, ensuring a personalized shopping experience.
