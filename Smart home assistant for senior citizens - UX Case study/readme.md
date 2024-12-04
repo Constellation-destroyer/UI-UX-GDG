@@ -1,5 +1,6 @@
 # Smart home assistant for senior citizens (UX Case study) - Project Overview
-**Project Mentor:** [Tvisha](https://github.com/twix07)
+- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134)
+- **Project Mentor:** [Tvisha](https://github.com/twix07)
 
 ## Description
 The** Smart Home Assistant for _Senior Citizens_** project aims to **explore and enhance the user experience (UX)** of smart home technologies specifically designed for older adults. This case study will focus on understanding the unique needs and limitations of senior citizens when interacting with technology, particularly voice-activated systems. The project will encourage contributors to research, design, and propose solutions that improve accessibility, safety, and personalization in smart home environments.
