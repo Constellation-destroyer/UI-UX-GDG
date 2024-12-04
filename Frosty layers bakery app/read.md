@@ -1,7 +1,6 @@
 # Frosty layers (bakery app UI) - Project Overview
 **Project Mentor:** [Vanshika Sharma](https://github.com/vanshikashh) (GDG UI/UX Circle Manager) 
 
-
 ## Description
 **Frosty Layers** is a bakery-themed app, and this project is an opportunity for you to _refine your design skills_ and _collaborate_ on improving the UI.
 
