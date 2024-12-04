@@ -1,7 +1,7 @@
 # Description
 Sprout Space is a plant sensor app designed to help users monitor the health and requirements of their plants. It provides an intuitive and user-friendly interface for plant enthusiasts to track various parameters like humidity, water levels, and temperature. Additionally, the app features a marketplace where users can explore and purchase plants.
 
-Current Progress
+# Current Progress
 The app’s UI currently includes the following screens:
 Intro Screen: Welcomes users to the app.
 Home Page: Displays a list of plants owned by the user and an “Explore” section for the marketplace.
@@ -9,14 +9,16 @@ Side Navbar: Provides navigation options like My Plants, Explore, Shopping Cart,
 Plant Stats Page (Plant 2): Offers detailed statistics for a specific plant, including health metrics.
 Marketplace Checkout Page: Displays the shopping cart for purchasing plants from the marketplace.
 
-Examples for Contributors  To spark ideas and open up possibilities, here are a few examples of what contributors can create:
+# Examples for Contributors
+To spark ideas and open up possibilities, here are a few examples of what contributors can create:
 Full Plant Library Page: A comprehensive view of all the user’s plants.
 Marketplace Plant Page: A complete list of all plants available for purchase.
 Individual Marketplace Plant Pages: Detailed pages for each plant, including descriptions, care requirements, and pricing.
 Signup/Login Page: To enable user authentication and profile management.
 These are only examples to help contributors brainstorm. Feel free to expand on these or introduce entirely new features that enhance the user experience!
 
-Requirements for Contributors  To complete the project and improve its functionality, contributors are required to:
+# Requirements for Contributors
+To complete the project and improve its functionality, contributors are required to:
 Create Additional Pages:  Use the provided examples as inspiration, but you’re welcome to go beyond them and add more creative pages or features.
 Enhance User Interaction:
 Add micro-interactions for buttons, icons, and other interactive elements.
@@ -30,7 +32,7 @@ Refine and Improve Existing Designs:
 Maintain the current style and branding while incorporating new features.
 Contributors can tweak existing pages if they feel it enhances the user experience, as long as the overall theme remains intact.
 
-Guidelines
+# Guidelines
 Ensure all new additions align with the existing design language.
 Prioritize usability and maintain a clean, modern aesthetic.
 
