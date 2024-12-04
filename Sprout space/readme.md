@@ -1,3 +1,5 @@
+# Project Overview
+### Sprout Space - Plant Sensor App UI
 ## Description
 Sprout Space is a plant sensor app designed to help users monitor the health and requirements of their plants. It provides an intuitive and user-friendly interface for plant enthusiasts to track various parameters like humidity, water levels, and temperature. Additionally, the app features a marketplace where users can explore and purchase plants.
 
