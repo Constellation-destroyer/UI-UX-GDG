@@ -14,6 +14,8 @@
   - Redesign pages like Home, Cart, Product Details, or Order Tracking for better usability and aesthetics.
   - Propose updates to the colour palette, typography, or layout.
 
+![all](https://github.com/GDG-IGDTUW/UI-UX/blob/bd3aefb1f537bef10193fd21fc64c04afe47a4d6/Frosty%20layers%20bakery%20app/Frame%201.png)
+
 - **Create New Pages:**
   - **Suggested pages:**
     - User Profile: Display user details, saved addresses, and payment methods.
