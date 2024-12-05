@@ -11,9 +11,20 @@
 ## Current Progress
 The app’s UI currently includes the following screens:
 - **Home Page:** Welcomes users + dropdown menu and “Contact Us” navigation options.
+
+![Home page](https://github.com/GDG-IGDTUW/UI-UX/blob/866ab85d468552e5806130fa7438abf787d5b4a3/Geeky%20Genie/home%20page.png)
+
 - **Profile Page:** Enables users to list their preferences, helping the app recommend gadgets suited to their needs.
+
+![profile page](https://github.com/GDG-IGDTUW/UI-UX/blob/866ab85d468552e5806130fa7438abf787d5b4a3/Geeky%20Genie/my%20profile.png)
+
 - **Sort By:** Allows users to filter gadgets by price, category, or recommendations.
-- **Marketplace Checkout Page:** Displays various gadget categories for easy browsing and selection.
+
+![sort by page](https://github.com/GDG-IGDTUW/UI-UX/blob/866ab85d468552e5806130fa7438abf787d5b4a3/Geeky%20Genie/camera.png)
+
+- **Marketplace Page:** Displays various gadget categories for easy browsing and selection.
+
+![marketplace page](https://github.com/GDG-IGDTUW/UI-UX/blob/866ab85d468552e5806130fa7438abf787d5b4a3/Geeky%20Genie/acc.png)
 
 ## Examples for Contributors
 To help inspire contributors and explore new ideas, here are some example pages and features that can be developed:
