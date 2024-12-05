@@ -27,7 +27,7 @@ The Plastic Tracker currently includes the following pages:
 
 ![tracker page](https://github.com/GDG-IGDTUW/UI-UX/blob/8b303f452d973482fe221514517ed158d135a649/Plastify%20(Web-based%20UI)/tracker.png)
 
-- Recent Updates Page: Shares the latest news, innovations, and developments in plastic recycling and sustainability.
+- **Recent Updates Page:****** Shares the latest news, innovations, and developments in plastic recycling and sustainability.
 
 ![recent updates page](https://github.com/GDG-IGDTUW/UI-UX/blob/8b303f452d973482fe221514517ed158d135a649/Plastify%20(Web-based%20UI)/recent%20updates.png)
 
