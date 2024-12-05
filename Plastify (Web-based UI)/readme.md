@@ -17,11 +17,19 @@ The Plastic Tracker currently includes the following pages:
 
 - **Home Page:** Welcomes users with an overview of the platform’s purpose and features, along with quick navigation links.
 
+![home page](https://github.com/GDG-IGDTUW/UI-UX/blob/8b303f452d973482fe221514517ed158d135a649/Plastify%20(Web-based%20UI)/home.png)
+
 - **Contact Page:** Provides a user-friendly form for feedback, queries, and support requests.
+
+![contact page](https://github.com/GDG-IGDTUW/UI-UX/blob/8b303f452d973482fe221514517ed158d135a649/Plastify%20(Web-based%20UI)/contact.png)
 
 - **Tracker Page:** Allows users to log, monitor, and visualize their plastic consumption with data insights and personalized suggestions.
 
-Recent Updates Page: Shares the latest news, innovations, and developments in plastic recycling and sustainability.
+![tracker page](https://github.com/GDG-IGDTUW/UI-UX/blob/8b303f452d973482fe221514517ed158d135a649/Plastify%20(Web-based%20UI)/tracker.png)
+
+- Recent Updates Page: Shares the latest news, innovations, and developments in plastic recycling and sustainability.
+
+![recent updates page](https://github.com/GDG-IGDTUW/UI-UX/blob/8b303f452d973482fe221514517ed158d135a649/Plastify%20(Web-based%20UI)/recent%20updates.png)
 
 ## Examples for Contributors
 To enhance the platform, here are some features and improvements that can be designed or added:
