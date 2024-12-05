@@ -12,9 +12,19 @@
 The app’s UI currently includes the following screens:
 - **Intro Screen:** Welcomes users to the app. 
 - **Home Page:** Displays a list of plants owned by the user and an “Explore” section for the marketplace.
+
+![intro page](https://github.com/GDG-IGDTUW/UI-UX/blob/65a7af57d6db1ea01dc06b4fd4bc0bbf2d1ad90f/Sprout%20space/starting%20page.png)
+![home page](https://github.com/GDG-IGDTUW/UI-UX/blob/65a7af57d6db1ea01dc06b4fd4bc0bbf2d1ad90f/Sprout%20space/main%20page.png)
+
 - **Side Navbar:** Provides navigation options like My Plants, Explore, Shopping Cart, and Settings.
 - **Plant Stats Page (Plant 2):** Offers detailed statistics for a specific plant, including health metrics.
+
+![side navigation page](https://github.com/GDG-IGDTUW/UI-UX/blob/65a7af57d6db1ea01dc06b4fd4bc0bbf2d1ad90f/Sprout%20space/side%20nav%20bar.png)
+![plant stat page](https://github.com/GDG-IGDTUW/UI-UX/blob/65a7af57d6db1ea01dc06b4fd4bc0bbf2d1ad90f/Sprout%20space/plant%202%20page.png)
+
 - **Marketplace Checkout Page:** Displays the shopping cart for purchasing plants from the marketplace.
+
+![cart page](https://github.com/GDG-IGDTUW/UI-UX/blob/65a7af57d6db1ea01dc06b4fd4bc0bbf2d1ad90f/Sprout%20space/cart%20page.png)
 
 ## Examples for Contributors
 To spark ideas and open up possibilities, here are a few examples of what contributors can create:
