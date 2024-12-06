@@ -1,5 +1,5 @@
 # Frosty layers (bakery app UI) - Project Overview
-- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134)
+- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134) | [Vani Varanya](https://github.com/vanivaranya)
 - **Project Mentor:** [Vanshika Sharma](https://github.com/vanshikashh)
  
 ## Description
