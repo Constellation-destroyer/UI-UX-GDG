@@ -1,5 +1,5 @@
 # Smart home assistant for senior citizens (UX Case study) - Project Overview
-- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134)
+- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134) | [Vani Varanya](https://github.com/vanivaranya)
 - **Project Mentor:** [Tvisha](https://github.com/twix07)
 
 ## Description
