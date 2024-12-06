@@ -11,14 +11,14 @@
 [Vanshika Sharma](https://github.com/vanshikashh)
 
 ## Abstract
-UI/UX Design is the _**art and science of enhancing user interaction**_ by addressing challenges, simplifying workflows, and creating delightful experiences. By stepping into the user’s shoes, designers **craft solutions** that are not only functional but also _intuitive_ and _engaging_.
+UI/UX Design is the **art and science of enhancing user interaction** by _addressing challenges_, _simplifying workflows_, and _creating delightful experiences_. By stepping into the user’s shoes, designers **craft solutions** that are not only functional but also _intuitive_ and _engaging_.
 
-Kickstarting Your UI/UX Journey:
+Kickstarting Your **UI/UX Journey**:
 
-- Dive deep into the problem statement to uncover user needs and align your designs to solve them.
-- Map out your UX process, and if possible, document it in a case study to showcase your thought process.
-- Experiment with tools like Figma, Adobe XD, or others that match your creative style.
-- Fuel your creativity with inspiration from platforms like [Behance](https://www.behance.net/) and [Dribbble](https://dribbble.com/).
+- Dive deep into the problem statement to uncover _**user needs**_ and align your designs to solve them.
+- _Map out_ your **UX process**, and if possible, _**document it**_ in a case study to showcase your thought process.
+- Experiment with tools like **Figma**, **Adobe XD**, or others that match your creative style.
+- Fuel your _creativity_ with _inspiration_ from platforms like [Behance](https://www.behance.net/) and [Dribbble](https://dribbble.com/).
 
 ## Contributing to the project
 - Take a look at the Existing Issues of your project and find one that interests you!
