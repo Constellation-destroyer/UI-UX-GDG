@@ -1,6 +1,7 @@
 # UI/UX Projects and Case Studies
 ### Maintainers
-[Khushie Leishangthem](https://github.com/Khushie134) (GDG UI/UX Circle Manager)
+- [Khushie Leishangthem](https://github.com/Khushie134) (GDG UI/UX Circle Manager)
+- [Vani Varanya](https://github.com/vanivaranya) (GDG Technical Lead)
 
 ### Reviewers
 [Abhaya Trivedi](https://github.com/abhayaaatriv) |
