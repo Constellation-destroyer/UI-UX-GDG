@@ -1,5 +1,5 @@
 # Plastify (Web based UI) - Project Overview
-- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134)
+- **Project Maintainer:** [Khushie Leishangthem](https://github.com/Khushie134) | [Vani Varanya](https://github.com/vanivaranya)
 - **Project Mentor:** [Deepanshi Dhiman](https://github.com/D-dhiman)
 
 ## Description 
