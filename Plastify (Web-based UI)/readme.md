@@ -3,14 +3,11 @@
 - **Project Mentor:** [Deepanshi Dhiman](https://github.com/D-dhiman)
 
 ## Description 
-**Sprout Space** is a plant sensor app designed to help users *monitor the health and requirements* of their plants. It provides an *intuitive* and *user-friendly* interface for plant enthusiasts to track various parameters like humidity, water levels, and temperature. Additionally, the app features a **marketplace** where users can explore and purchase plants.
+**Plastiy** is a _web-based platform_ designed to empower users to **take control of their plastic consumption habits**. By providing actionable insights and resources, the platform helps individuals and communities reduce their environmental impact and stay informed about recycling innovations.
 
 ## Project link 
 - [Plastify figma file](https://www.figma.com/design/etw6VmevcWoD6p2tXGOdNX/Plastify%3A-Web-based-plastic-footprint-tracker?node-id=0-1&t=gAMCelRLtHvWlYkz-1)
 - [Google sheet for contributors](https://docs.google.com/spreadsheets/d/1PirbUVLteTrnOmQ-sooJhnUp_XdT6jxf4NmxzwFMuE8/edit?usp=sharing)
-
-## Description
-**Plastiy** is a _web-based platform_ designed to empower users to **take control of their plastic consumption habits**. By providing actionable insights and resources, the platform helps individuals and communities reduce their environmental impact and stay informed about recycling innovations.
 
 ## Current Progress
 The Plastic Tracker currently includes the following pages:
