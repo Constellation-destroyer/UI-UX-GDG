@@ -22,13 +22,12 @@ Kickstarting Your **UI/UX Journey**:
 
 ## Contributing to the project
 - Take a look at the Existing Issues and find one that interests you!
-- Create a duplicate of the figma file given, to start the working on it.
-- After doing some work on the issue, fill the Google sheet provided in each project and wait for the maintainer's or reviewers' response
-- If you are selected for the Issues you applied for, you will be assigned that issue.
-- Fork the Repo and create a Branch for that Issue.
-- Keep working on the issue and pitch in the progress from time to time through the Google sheet for it to be reviewed and to get suggestions that could be incorporated to improve it.
-- Once approved, your changes will be merged into the project.
-- Add Screenshots and figma link for designed-based projects and document file/link for research-based projects in the forked branch.
+- Add a comment under that issue asking us to assign you that specific issue that you wish to work on.
+- Once assigned, fork the Repo and create a Branch for that Issue.
+- Create a duplicate of the figma file given, to start the work on it.
+- Work on the issue and pitch in the progress from time to time through the Google sheet, for it to be reviewed and to get suggestions that could be incorporated to improve it.
+- Once approved, your changes will be merged into the project. Make sure to name the Pull Request as the Issue's name.
+- Add Screenshots and figma link for designed-based projects and document file/link for research-based projects in the PR.
 - Repository-specific contribution information is in the respective READMEs of each repo.
 - Do not abuse and/or use bad language. Ensure you don't insult anyone. Be respectful and inclusive.
 - Please mention your full name on your GitHub handle to be eligible for prizes.
