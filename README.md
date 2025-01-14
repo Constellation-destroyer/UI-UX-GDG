@@ -21,11 +21,12 @@ Kickstarting Your **UI/UX Journey**:
 - Fuel your _creativity_ with _inspiration_ from platforms like [Behance](https://www.behance.net/) and [Dribbble](https://dribbble.com/).
 
 ## Contributing to the project
-- Take a look at the Existing Issues of your project and find one that interests you!
-- Fork the Repo and create a Branch for any Issue you are working on and create a duplicate of the figma file given to start the work on it.
+- Take a look at the Existing Issues and find one that interests you!
+- Create a duplicate of the figma file given, to start the working on it.
 - After doing some work on the issue, fill the Google sheet provided in each project and wait for the maintainer's or reviewers' response
 - If you are selected for the Issues you applied for, you will be assigned that issue.
-- Once selected, keep working on the issue and pitch in the progress from time to time for it to get reviewed and to get suggestions that could be incorporated to improve it.
+- Fork the Repo and create a Branch for that Issue.
+- Keep working on the issue and pitch in the progress from time to time through the Google sheet for it to be reviewed and to get suggestions that could be incorporated to improve it.
 - Once approved, your changes will be merged into the project.
 - Add Screenshots and figma link for designed-based projects and document file/link for research-based projects in the forked branch.
 - Repository-specific contribution information is in the respective READMEs of each repo.
