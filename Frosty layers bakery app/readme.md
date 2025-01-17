@@ -7,7 +7,7 @@
 
 ## Project link
 - [frosty layers figma file](https://www.figma.com/design/WRdDZKxpRDbvlWbahF2X89/Bakery-App-(Copy)?node-id=2018-146&t=TG6HrHCb5bFArS3r-1)
-- [Google sheet for contributors](https://docs.google.com/spreadsheets/d/1Nnz30cCo1Eg4eSKOe9TDRZCOhjXkB75_6iO9uCwk-Es/edit?usp=sharing)
+- [Google sheet for contributors](https://docs.google.com/spreadsheets/d/1bvbunJ2RmTj3Lj5TaNioCuaHZe_eqsIKgmmxfL4rdNU/edit?usp=sharing)
 
 ## What We’re Looking For
 - **Enhance Existing Designs:**
